@@ -108,6 +108,7 @@ If you find this helpful, please give us a Star!
 
 ### AI Copywriting Tools
 
+- [Humanize-Text](https://github.com/lynote-ai/humanize-text) - Open-source multi-stage text rewriting toolkit
 - [Japser](https://aitools.inc/tools/jasper-ai) - Craft compelling content at lightning speed [![link]](https://www.jasper.ai/)
 - [Quillbot](https://aitools.inc/tools/quillbot) - Write better, faster, and clearer [![link]](https://quillbot.com/)
 - [Anyword](https://aitools.inc/tools/anyword) - Create high-converting copy at scale [![link]](https://anyword.com/)
